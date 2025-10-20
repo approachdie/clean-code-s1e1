@@ -111,7 +111,7 @@ button:hover {
   align-items: center;
 }
 
-li > input[type="checkbox"] {
+.check {
   margin: 0 10px;
 }
 
