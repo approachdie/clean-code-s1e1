@@ -144,11 +144,6 @@ button:hover {
   display: none;
 }
 
-ul li.editMode input[type="text"] {
-  display: inline-block;
-  width: 224px;
-}
-
 ul li.editMode label {
   display: none;
 }
