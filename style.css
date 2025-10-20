@@ -38,7 +38,7 @@ body {
   flex-grow: 1;
 }
 
-.task-row-wrapper {
+.content__wrapper {
   display: flex;
 }
 
@@ -72,8 +72,7 @@ button:hover {
 }
 
 /* Heading */
-h3,
-label[for="new-task"] {
+.add__label {
   color: #333;
   font-weight: 700;
   font-size: 15px;
