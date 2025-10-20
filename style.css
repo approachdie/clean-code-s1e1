@@ -100,11 +100,6 @@ input[type="text"]:focus {
   color: #333;
 }
 
-/* New Task */
-input#new-task {
-  width: 318px;
-}
-
 /* Task list */
 .content__item {
   overflow: hidden;
