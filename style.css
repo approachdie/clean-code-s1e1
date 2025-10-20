@@ -149,6 +149,6 @@ button:hover {
   width: 224px;
 }
 
-ul li.editMode label {
+.editMode label {
   display: none;
 }
