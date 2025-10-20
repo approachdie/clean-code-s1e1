@@ -20,7 +20,7 @@
       </p>
       <h3>Todo</h3>
         <ul id="incompleteTasks">
-          <li>
+          <li class="content__item">
             <input class="check" type="checkbox">
             <label class="task__label">Pay Bills</label>
             <input class="task" type="text">
@@ -29,7 +29,7 @@
               <img src="./remove.svg" alt="remove">
             </button>
           </li>
-          <li class="editMode">
+          <li class="content__item editMode">
             <input type="checkbox">
             <label class="task__label">Go Shopping</label>
             <input class="task" type="text" value="Go Shopping">
@@ -41,7 +41,8 @@
         </ul>
         <h3>Completed</h3>
         <ul id="completed-tasks">
-          <li><input type="checkbox" checked>
+          <li class="content__item">
+            <input type="checkbox" checked>
             <label class="task__label">See the Doctor</label>
             <input class="task" type="text">
             <button class="edit">Edit</button>
