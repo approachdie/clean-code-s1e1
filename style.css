@@ -42,6 +42,10 @@ body {
   display: flex;
 }
 
+.content__wrapper .task {
+  display: inline-block;
+}
+
 ul {
   margin: 0;
   padding: 0px;
